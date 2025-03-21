@@ -17,7 +17,7 @@ export declare const TEXT_PROP_MAP: ({ colors, focused, inverse, value, }: {
     VEHICLE_NO: {
         formatter: (regNo: string) => string;
         unformatter: (regNo: string) => string;
-        prefix: React.JSX.Element;
+        prefix: string;
         placeholder: string;
         maxLength: number;
         checkValidity: (_value?: string) => boolean;
@@ -100,7 +100,7 @@ export declare const TEXT_PROP_MAP_STANDALONE: (colors: typeof BaseColors) => {
     VEHICLE_NO: {
         formatter: (regNo: string) => string;
         unformatter: (regNo: string) => string;
-        prefix: React.JSX.Element;
+        prefix: string;
         placeholder: string;
         maxLength: number;
         checkValidity: (_value?: string) => boolean;
