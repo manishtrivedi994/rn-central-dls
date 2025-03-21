@@ -96,7 +96,7 @@ export declare const TEXT_PROP_MAP: ({ colors, focused, inverse, value, }: {
         showSeparator: boolean;
     };
 };
-export declare const TEXT_PROP_MAP_STANDALONE: (colors: typeof BaseColors) => {
+export declare const TEXT_PROP_MAP_STANDALONE: () => {
     VEHICLE_NO: {
         formatter: (regNo: string) => string;
         unformatter: (regNo: string) => string;
