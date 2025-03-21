@@ -15,6 +15,13 @@
   },
   "author": "Manish Trivedi",
   "license": "ISC",
+  "resolutions": {
+    "@types/react": "^18.2.44"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
   "bugs": {
     "url": "https://github.com/manishtrivedi994/rn-central-dls/issues"
   },
