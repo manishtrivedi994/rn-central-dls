@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../src/atoms/Divider/index.tsx"],"names":[],"mappings":"AAAA,OAAO,KAA4B,MAAM,OAAO,CAAC;AAMjD,OAAO,KAAK,EAAqB,SAAS,EAAE,MAAM,cAAc,CAAC;AAoEjE,QAAA,MAAM,OAAO,oCAnBoB;IAC/B,IAAI,CAAC,EAAE,SAAS,GAAG,IAAI,GAAG,QAAQ,CAAC;IACnC,KAAK,CAAC,EAAE,SAAS,CAAC;CACnB,uBAgB2C,CAAC;AAC7C,OAAO,EAAE,OAAO,EAAE,CAAC"}

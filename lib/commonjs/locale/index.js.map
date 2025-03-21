@@ -1,0 +1,1 @@
+{"version":3,"names":["Locale","OR","UPLOAD_COMPLETE","UPLOAD_FAILED","_default","exports","default"],"sourceRoot":"../../../src","sources":["locale/index.ts"],"mappings":";;;;;;AAAA,MAAMA,MAAM,GAAG;EACbC,EAAE,EAAE,IAAI;EACRC,eAAe,EAAE,kBAAkB;EACnCC,aAAa,EAAE;AACjB,CAAC;AAAC,IAAAC,QAAA,GAAAC,OAAA,CAAAC,OAAA,GAEaN,MAAM","ignoreList":[]}
